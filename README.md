@@ -14,7 +14,7 @@
   <img align="center" alt="Ayse-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ayse-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="http://www.fc1492.com/wp-content/uploads/2017/06/tumblr_ook9ah2gfS1u6n4kao1_500.gif">
+  <img align="right" alt="Ayse-pic" height="150" style="border-radius:50px;" src="http://www.fc1492.com/wp-content/uploads/2017/06/tumblr_ook9ah2gfS1u6n4kao1_500.gif">
 </div>
   
   ##
@@ -22,5 +22,8 @@
 <div> 
   <a href="https://www.linkedin.com/in/ayse-erdanisman-5b1017202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@ayseerdanisman"><img src="https://img.shields.io/badge/medium-9146FF.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  
 </div>
+  
+  ##
+
+![Snake animation](https://github.com/AyseErdanisman/AyseErdanisman/blob/output/github-contribution-grid-snake.svg)
