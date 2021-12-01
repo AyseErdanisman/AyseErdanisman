@@ -29,6 +29,6 @@
 ![Snake animation](https://github.com/AyseErdanisman/AyseErdanisman/blob/output/github-contribution-grid-snake.svg)
 
   
-<a href="https://github.com/ESKYoung/shields-io-visitor-counter">
+<a href="https://github.com/AyseErdanisman/shields-io-visitor-counter">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=AyseErdanisman.AyseErdanisman&style=for-the-badge">
 <a>
