@@ -1,12 +1,24 @@
 ### 
 <h1 align="center"> Hi 👋 I'm Ayse Erdanisman </h1>
 <br>
+
+<div>
+  👩‍💻 I’m currently learning "Machine Learning" with Python
+  <br>
+  ☕ My actual aim is to make projects about AI and working with AI.
+  <br>
+  💼 any freelance work? do reach, email 📬
+  <br>
+  💬 ask me about anything, i am happy to help;
+</div>
+<br>
 <div align="center">
   <a href="https://github.com/AyseErdanisman">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyseErdanisman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyseErdanisman&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+<h3>🛠  Tech Stack</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ayse-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ayse-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,7 +40,6 @@
 
 ![Snake animation](https://github.com/AyseErdanisman/AyseErdanisman/blob/output/github-contribution-grid-snake.svg)
 
-  
 <a href="https://github.com/AyseErdanisman">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=AyseErdanisman.AyseErdanisman&style=for-the-badge">
 <a>
