@@ -2,16 +2,6 @@
 <h1 align="center"> Hi 👋 I'm Ayse Erdanisman </h1>
 <br>
 
-<div>
-  👩‍💻 I’m currently learning "Machine Learning" with Python
-  <br>
-  ☕ My actual aim is to make projects about AI and working with AI.
-  <br>
-  💼 any freelance work? do reach, email 📬
-  <br>
-  💬 ask me about anything, i am happy to help;
-</div>
-<br>
 <div align="center">
   <a href="https://github.com/AyseErdanisman">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyseErdanisman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
