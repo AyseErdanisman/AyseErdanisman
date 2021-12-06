@@ -1,5 +1,12 @@
 ### 
-<h1 align="center"> Hi <img height="30" width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ayse Erdanisman </h1>
+<div align="center">
+  <h1>
+    Hi <img height="30" width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ayse Erdanisman 
+    <p align="center">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+    </p>
+  </h1>
+</div>
 <br>
 
 👩‍💻 I’m currently learning "Machine Learning" with Python
@@ -17,7 +24,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyseErdanisman&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<h3>🛠  Tech Stack</h3>
+  ##
+  
+### 🛠 &nbsp;  Tech Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Ayse-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ayse-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -45,7 +54,5 @@
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=AyseErdanisman.AyseErdanisman&style=for-the-badge">
 <a>
   
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+
   
