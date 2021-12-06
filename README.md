@@ -1,8 +1,17 @@
 ### 
-<h1 align="center"> Hi 👋 I'm Ayse Erdanisman </h1>
+<h1 align="center"> Hi <img height="30" width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ayse Erdanisman </h1>
 <br>
 
+👩‍💻 I’m currently learning "Machine Learning" with Python
+<br>
+☕ My actual aim is to make projects about AI and working with AI.
+<br>
+💬 ask me about anything, i am happy to help;
+<br>
+💼 any freelance work? do reach, [email](mailto:ayseerdanisman@gmail.com) :)
+
 <div align="center">
+  <br>
   <a href="https://github.com/AyseErdanisman">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyseErdanisman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyseErdanisman&layout=compact&langs_count=7&theme=dracula"/>
@@ -21,9 +30,11 @@
   
   ##
   
+### 🤝🏻 &nbsp;Connect with Me
 <div> 
   <a href="https://www.linkedin.com/in/ayse-erdanisman-5b1017202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@ayseerdanisman"><img src="https://img.shields.io/badge/medium-9146FF.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="mailto:ayseerdanisman@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </div>
   
   ##
@@ -33,3 +44,8 @@
 <a href="https://github.com/AyseErdanisman">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=AyseErdanisman.AyseErdanisman&style=for-the-badge">
 <a>
+  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+  
