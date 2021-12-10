@@ -53,6 +53,3 @@
 <a href="https://github.com/AyseErdanisman">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=AyseErdanisman.AyseErdanisman&style=for-the-badge">
 <a>
-  
-
-  
