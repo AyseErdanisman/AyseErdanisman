@@ -9,7 +9,7 @@
 </div>
 <br>
 
-👩‍💻 I’m currently learning "Machine Learning" with Python
+👩‍💻 I'm currently learning "Machine Learning" with Python but I'm also interested in Web Programming
 <br>
 ☕ My actual aim is to make projects about AI and working with AI.
 <br>
