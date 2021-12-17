@@ -20,9 +20,14 @@
 <div align="center">
   <br>
   <a href="https://github.com/AyseErdanisman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyseErdanisman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyseErdanisman&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyseErdanisman&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyseErdanisman&layout=compact&langs_count=7&theme=merko"/>
 </div>
+  
+  
+<p align="center">
+  <img width="600em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyseErdanisman&theme=merko" alt="AyseErdanisman" />
+</p>
   
   ##
   
