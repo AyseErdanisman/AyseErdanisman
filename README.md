@@ -51,6 +51,12 @@
   <a href="mailto:ayseerdanisman@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </div>
   
+<div>
+  <br/>
+    <a href="https://github.com/AyseErdanisman/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AyseErdanisman&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <br/>
+</div>
+  
   ##
 
 ![Snake animation](https://github.com/AyseErdanisman/AyseErdanisman/blob/output/github-contribution-grid-snake.svg)
