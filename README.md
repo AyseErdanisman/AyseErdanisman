@@ -46,7 +46,7 @@
   
 ### 🤝🏻 &nbsp;Connect with Me
 <div> 
-  <a href="https://www.linkedin.com/in/ay%C5%9Fe-erdan%C4%B1%C5%9Fman-5b1017202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ayse-erdanisman-5b1017202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@ayseerdanisman"><img src="https://img.shields.io/badge/medium-9146FF.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="mailto:ayseerdanisman@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </div>
